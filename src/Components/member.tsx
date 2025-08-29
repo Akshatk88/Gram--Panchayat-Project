@@ -28,7 +28,7 @@ const members: Member[] = [
     role: "Panchayat Member",
     description:
       "Expert in agricultural development and water management",
-    image: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/93caabd2-e63e-437a-9bc3-d2270933faf1.png", // replace with your image path
+    image: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/93caabd2-e63e-437a-9bc3-d2270933faf1.png" // replace with your image path
   },
 ];
 
