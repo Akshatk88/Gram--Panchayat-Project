@@ -131,6 +131,9 @@ const ContactUs: React.FC = () => {
               <p className="text-gray-600">
                 For urgent matters after office hours:
               </p>
+              <p className="text-red-500">
+                Emergency Toll-Free Number: <span className="font-semibold">1081</span>
+              </p>
             </div>
           </div>
         </div>

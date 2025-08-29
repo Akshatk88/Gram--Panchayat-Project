@@ -18,7 +18,7 @@ const newsData: NewsItem[] = [
     description:
       "The new water supply project benefiting 200 households has been successfully launched. This initiative ensures 24/7 clean drinking water availability across all villages.",
     image:
-      "https://images.unsplash.com/photo-1508182311256-e3f9f5b6d2b9?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1668961915523-884872e392f8?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2F0ZXIlMjBzdXBwbHklMjBpbiUyMHZpbGxhZ2V8ZW58MHx8MHx8fDA%3D",
   },
   {
     id: 2,
@@ -28,7 +28,7 @@ const newsData: NewsItem[] = [
     description:
       "The annual Gram Sabha meeting will be held on December 20th at the Panchayat Bhawan. All villagers are invited to participate and share their suggestions for village development.",
     image:
-      "https://images.unsplash.com/photo-1579493934377-0afc5a9d6a4d?auto=format&fit=crop&w=800&q=80",
+      "https://images.unsplash.com/photo-1595683259103-3a70d0969112?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fEFubnVhbCUyMEdyYW0lMjBTYWJoYSUyME1lZXRpbmclMjB2aWxsYWdlfGVufDB8fDB8fHww",
   },
 ];
 

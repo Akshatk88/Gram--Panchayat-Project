@@ -5,8 +5,11 @@ import type { FC } from "react";
 const Gallery: FC = () => {
 const images = [
   "https://images.unsplash.com/photo-1647184223407-ef8273a6822c?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8aW5kaWFuJTIwdmlsbGFnZXxlbnwwfHwwfHx8MA%3D%3D",
-  "https://images.unsplash.com/photo-1505761671935-60b3a7427bad?auto=format&fit=crop&w=800&q=80",
-  "https://images.unsplash.com/photo-1600180758895-6ff40e540f01?auto=format&fit=crop&w=800&q=80"
+  "https://images.unsplash.com/photo-1651678938586-affccc71c270?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aW5kaWFuJTIwdmlsbGFnZXxlbnwwfHwwfHx8MA%3D%3D",
+  "https://images.unsplash.com/photo-1634874706682-3468a6e421ba?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aW5kaWFuJTIwdmlsbGFnZXxlbnwwfHwwfHx8MA%3D%3D",
+  "https://images.unsplash.com/photo-1586618770443-e6f8167fca61?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fGluZGlhbiUyMHZpbGxhZ2V8ZW58MHx8MHx8fDA%3D",
+  "https://images.unsplash.com/photo-1598972674627-30907e6ba976?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fGluZGlhbiUyMHZpbGxhZ2V8ZW58MHx8MHx8fDA%3D",
+  "https://plus.unsplash.com/premium_photo-1721487064031-a394c7267785?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODF8fGluZGlhbiUyMHZpbGxhZ2V8ZW58MHx8MHx8fDA%3D"
 ];
 
 

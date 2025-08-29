@@ -14,21 +14,21 @@ const members: Member[] = [
     role: "Sarpanch",
     description:
       "Leading the panchayat with vision and dedication since 2020",
-    image: "/images/rajesh-kumar.jpg", // replace with your image path
+    image: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/5e14d662-2b1a-456d-8e8d-4d956da46849.png" // replace with your image path
   },
   {
     name: "Smt. Sita Devi",
     role: "Up-Sarpanch",
     description:
       "Focusing on women empowerment and education initiatives",
-    image: "/images/sita-devi.jpg", // replace with your image path
+    image: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/7c5e5cdb-5c0c-49bf-ae08-ea3eb4fb4829.png", // replace with your image path
   },
   {
     name: "Shri Mohan Lal",
     role: "Panchayat Member",
     description:
       "Expert in agricultural development and water management",
-    image: "/images/mohan-lal.jpg", // replace with your image path
+    image: "https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/93caabd2-e63e-437a-9bc3-d2270933faf1.png", // replace with your image path
   },
 ];
 
